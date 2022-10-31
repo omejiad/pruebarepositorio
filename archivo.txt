@@ -1,1 +1,4 @@
-algo de prueba para el manejo de git
+algo de prueba para el manejo de gi
+
+prueba de parte de frontend
+
